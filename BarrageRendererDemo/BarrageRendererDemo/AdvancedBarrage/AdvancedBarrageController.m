@@ -7,7 +7,7 @@
 //
 
 #import "AdvancedBarrageController.h"
-#import <BarrageRenderer/BarrageRenderer.h>
+#import <BarrageRendererTV/BarrageRenderer.h>
 #import "UIImage+Barrage.h"
 #import "BarrageWalkImageTextSprite.h"
 

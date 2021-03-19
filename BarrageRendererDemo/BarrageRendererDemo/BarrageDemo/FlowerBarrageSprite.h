@@ -6,7 +6,7 @@
 //  Copyright © 2017 ExBye Inc. All rights reserved.
 //
 
-#import <BarrageRenderer/BarrageRenderer.h>
+#import <BarrageRendererTV/BarrageRenderer.h>
 
 @interface FlowerBarrageSprite : BarrageSprite
 

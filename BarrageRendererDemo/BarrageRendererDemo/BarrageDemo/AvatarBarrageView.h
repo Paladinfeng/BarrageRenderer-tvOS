@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <BarrageRenderer/BarrageSpriteProtocol.h>
+#import <BarrageRendererTV/BarrageSpriteProtocol.h>
 
 @interface AvatarBarrageView : UIView<BarrageViewProtocol>
 

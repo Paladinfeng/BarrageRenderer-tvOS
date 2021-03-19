@@ -40,6 +40,17 @@
 1. demo的高级功能演示了: 如何使用自定义方式添加图文混排弹幕,如何支持录播中在固定时间点显示固定弹幕的逻辑.
 1. 相关的[一篇博文](http://blog.exbye.com/2015/07/an-open-source-ios-barrage-renderer/)
 
+#### CocoaPods
+
+```ruby
+platform :ios, '10.0'
+use_frameworks!
+
+target 'MyApp' do
+  pod 'BarrageRendererTV', '~> 2.1.1'
+end
+```
+
 ## 使用细节
 
 ### 基本使用

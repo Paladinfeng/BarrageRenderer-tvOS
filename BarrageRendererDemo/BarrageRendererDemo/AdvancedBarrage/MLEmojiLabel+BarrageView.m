@@ -7,7 +7,7 @@
 //
 
 #import "MLEmojiLabel+BarrageView.h"
-#import <BarrageRenderer/UILabel+BarrageView.h>
+#import <BarrageRendererTV/UILabel+BarrageView.h>
 
 @implementation MLEmojiLabel (BarrageView)
 

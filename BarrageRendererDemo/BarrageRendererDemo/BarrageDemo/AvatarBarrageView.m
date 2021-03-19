@@ -7,7 +7,7 @@
 //
 
 #import "AvatarBarrageView.h"
-#import <BarrageRenderer/UIView+BarrageView.h>
+#import <BarrageRendererTV/UIView+BarrageView.h>
 
 @interface AvatarBarrageView ()
 @property(nonatomic,strong)UIImageView *imageView;
