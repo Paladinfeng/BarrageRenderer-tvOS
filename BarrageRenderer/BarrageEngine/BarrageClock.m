@@ -25,6 +25,8 @@
 // THE SOFTWARE.
 
 #import "BarrageClock.h"
+#import <QuartzCore/QuartzCore.h>
+
 @interface BarrageClock()
 {
     void (^_block)(NSTimeInterval time);

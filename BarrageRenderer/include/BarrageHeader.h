@@ -1,0 +1,8 @@
+#import <UIKit/UIKit.h>
+#import "../BarrageEngine/BarrageRenderer.h"
+#import "../BarrageLoader/BarrageLoader.h"
+#import "../BarrageEngine/BarrageDescriptor.h"
+#import "../BarrageSprite/BarrageWalkTextSprite.h"
+#import "../BarrageSprite/BarrageFloatTextSprite.h"
+#import "../BarrageSprite/BarrageWalkImageSprite.h"
+#import "../BarrageSprite/BarrageFloatImageSprite.h"

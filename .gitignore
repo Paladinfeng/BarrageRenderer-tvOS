@@ -25,3 +25,7 @@ DerivedData
 #
 Pods/
 .browse.VC.db
+
+# SwiftPM
+.build/
+Package.resolved
